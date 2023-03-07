@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.wait": 500,
+    "liveServer.settings.CustomBrowser": "firefox",
+    "liveServer.settings.fullReload": true
+}
